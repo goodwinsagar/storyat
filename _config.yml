@@ -16,10 +16,10 @@ social-twitter: # add your Twitter handle
 social-facebook: # add your Facebook handle
 social-github: # add your Github handle
 social-linkedin: # add your Linkedin handle
-social-email: # add your Email address
+social-email: sagar.uacharya@gmail.com # add your Email address
 
 # Disqus
-discus-identifier: storyat #Mr-Brown # add your discus identifier
+discus-identifier: storyat # add your discus identifier
 # discus-identifier: Mr-Women #Mr-Brown # add your discus identifier
 
 # Tracker
