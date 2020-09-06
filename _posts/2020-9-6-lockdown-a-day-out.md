@@ -2,7 +2,7 @@
 layout: post
 title: Lockdown- A day out
 date: 2020-09-06 00:00:00 +0300
-description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+description: Lockdown- A day out. My experice in the lockdown from out.
 img: busyStreet.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [personality, lockdown, experience]
