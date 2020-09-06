@@ -32,6 +32,6 @@ We planned to visit our _mama’s_ house. <br/>
 <br/><br/>
 
 **“The act you do must be free form all bothering, still bother about the deed you may face in the future.”**<br/>
-I said we people are complex...
+I said, we people are complex...
 
 <br/><br/>
