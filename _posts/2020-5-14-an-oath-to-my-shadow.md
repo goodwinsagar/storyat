@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Oath TO My Shadow
+title: An Oath To My Shadow
 date: 2021-05-13 13:32:20 +0300
 description: An Oath TO My Shadow #(optional)
 #img: sunsetman.jpg # Add image post (optional)
